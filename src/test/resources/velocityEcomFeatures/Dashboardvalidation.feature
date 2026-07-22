@@ -1,6 +1,5 @@
 Feature: Validate Velocity Ecom Application Dashboard
 
-
   Scenario: Validate Dashboard
     Given user clicks on admin button of VelocityEcom application
     When user enters username as "9923478751" on VelocityEcom application
