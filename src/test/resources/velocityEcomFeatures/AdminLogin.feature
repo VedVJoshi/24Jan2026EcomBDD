@@ -3,3 +3,4 @@ Feature: Admin Login
      Given Admin Test
      When Admin Test
      Then Admin Test
+     And Admin Test
